@@ -1,0 +1,43 @@
+@charset "utf-8";
+/*CSS Document*/
+p {
+	color: purple;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	line-height: 26px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px; 
+}
+.paragraf_2{color: darkcyan; background-color: rebeccapurple; }
+.novi_blok{
+	background-color: red;
+	padding:20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Heue", Helvetica, Arial, "sans-serif";
+	color: navy;
+}
+
+span {color: yellow;}
+.pozadina {
+	background-image: url("SLIKE/download.jpg")
+}
+.drugapozadina {
+	background-color: darkgray;
+}
+a:link {
+	 color: gray;
+	 background-color: white;
+	 padding: 5px;
+	 line-height: 25px;
+	 border:1px solid #000000;
+}
+a:hover{
+	background-color: blue;
+}
+img {
+	height: 400px;
+}
